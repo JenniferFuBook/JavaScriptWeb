@@ -13,6 +13,15 @@ This provides a number of advantages:
 
 Happy reading and practicing!
 
+## Functional Programming
+[Functional programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) is a programming paradigm. It builds software by composing pure functions, avoiding shared state, mutable data, and side effects. Functional programming is declarative rather than imperative, and application state flows through pure functions.
+
+[Higher-order functions](https://dev.to/damcosset/higher-order-functions-in-javascript-4j8b) are functions that take other functions as arguments or return functions as their results. Functions are objects in JavaScript. It is treated as first-class citizens.
+
+[Currying](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5) is about decomposing a function taking multiple arguments into numerous functions with single arguments.
+It is named after [Haskell Curry](https://en.wikipedia.org/wiki/Haskell_Curry).
+
+[Microservices](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f) are not specific to JavaScript. However, conceptually, Functional programming is an analogy for microservices: single purpose, loose coupling, and high cohesion. It is fun to read about this hot topic.
 
 ## Regular Expressions
 Regular expressions are patterns used to match character combinations in strings. It is extremely effective for searching, manipulating, and validating strings.
