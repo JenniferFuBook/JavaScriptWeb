@@ -21,7 +21,7 @@ Happy reading and practicing!
 [Currying](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5) is about decomposing a function taking multiple arguments into numerous functions with single arguments.
 It is named after [Haskell Curry](https://en.wikipedia.org/wiki/Haskell_Curry).
 
-[Microservices](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f) are not specific to JavaScript. However, conceptually, Functional programming is an analogy for microservices: single purpose, loose coupling, and high cohesion. It is fun to read about this hot topic.
+[Microservices](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f) are not specific to JavaScript. However, conceptually, functional programming is an analogy for microservices: single purpose, loose coupling, and high cohesion. It is fun to read about this hot topic.
 
 ## Regular Expressions
 Regular expressions are patterns used to match character combinations in strings. It is extremely effective for searching, manipulating, and validating strings.
