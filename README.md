@@ -13,6 +13,15 @@ This provides a number of advantages:
 
 Happy reading and practicing!
 
+
+## Types and Type Coercion 
+JavaScript has 2 data types: primitives and objects.
+There are 7 primitive data types: string, number, bigint, boolean, null, undefined, and symbol.
+
+[Type coercion](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839) is the process of converting value from one type to another. An object is converted to a primitive, which is then converted to the final type. Type coercion will transform a value to string, boolean, or number. Values can be converted explicitly, or implicitly by operations between different types or by the surrounding context. 
+
+The strict equality (===) doesn’t trigger type coercion, while the loose equality operator (==) does type coercion if needed, and then compares.
+
 ## Functional Programming
 [Functional programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) is a programming paradigm. It builds software by composing pure functions, avoiding shared state, mutable data, and side effects. Functional programming is declarative rather than imperative, and application state flows through pure functions.
 
