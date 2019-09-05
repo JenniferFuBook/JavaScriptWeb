@@ -16,7 +16,7 @@ Happy reading and practicing!
 
 ## Types and Type Coercion 
 JavaScript has 2 data types: primitives and objects.
-There are 7 primitive data types: string, number, bigint, boolean, null, undefined, and symbol.
+There are 7 primitive data types: string, number, bigint, boolean, null, undefined, and [symbol](https://hacks.mozilla.org/2015/06/es6-in-depth-symbols/).
 
 [Type coercion](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839) is the process of converting value from one type to another. An object is converted to a primitive, which is then converted to the final type. Type coercion will transform a value to string, boolean, or number. Values can be converted explicitly, or implicitly by operations between different types or by the surrounding context. 
 
