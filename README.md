@@ -44,4 +44,4 @@ Regular expressions are patterns used to match character combinations in strings
 ## Gists
 Gists are a collection of code snippets for understanding the JavaScript concepts. It is also a resource to review before a frontend job interview.
 
-[Curry](https://gist.github.com/JenniferFuBook/b4e0d9a4bf2c2ce2da930208525e0cca), [mergeDeep](https://gist.github.com/JenniferFuBook/26afd67cc269e48aad28fff40176e698)
+[curry](https://gist.github.com/JenniferFuBook/b4e0d9a4bf2c2ce2da930208525e0cca), [debounce](https://gist.github.com/JenniferFuBook/dce897550feef47e13dbc2c75e059733) [mergeDeep](https://gist.github.com/JenniferFuBook/26afd67cc269e48aad28fff40176e698)
