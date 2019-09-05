@@ -42,6 +42,6 @@ Regular expressions are patterns used to match character combinations in strings
 [Online Regular Expression Tester and Debugger](https://regex101.com/) is a convenient tool to test out specific regular expressions.
 
 ## Gists
-Gists are a collection of code snippets for understanding the JavaScript concepts. It is also a great resource to review before a frontend job interview.
+Gists are a collection of code snippets for understanding the JavaScript concepts. It is also a resource to review before a frontend job interview.
 
-[Curry](https://gist.github.com/JenniferFuBook/b4e0d9a4bf2c2ce2da930208525e0cca)
+[Curry](https://gist.github.com/JenniferFuBook/b4e0d9a4bf2c2ce2da930208525e0cca), [mergeDeep](https://gist.github.com/JenniferFuBook/26afd67cc269e48aad28fff40176e698)
