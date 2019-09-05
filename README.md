@@ -40,3 +40,8 @@ Regular expressions are patterns used to match character combinations in strings
 [Lookbehind and Lookahead](https://itnext.io/whats-new-in-javascript-google-i-o-2019-summary-d16bd2308412) are the latest additions to the Regular expression family.
  
 [Online Regular Expression Tester and Debugger](https://regex101.com/) is a convenient tool to test out specific regular expressions.
+
+## Gists
+Gists are a collection of code snippets for understanding the JavaScript concepts. It is also a great resource to review before a frontend job interview.
+
+[Curry](https://gist.github.com/JenniferFuBook/b4e0d9a4bf2c2ce2da930208525e0cca)
