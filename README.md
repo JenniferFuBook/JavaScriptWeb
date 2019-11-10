@@ -41,6 +41,22 @@ Regular expressions are patterns used to match character combinations in strings
  
 [Online Regular Expression Tester and Debugger](https://regex101.com/) is a convenient tool to test out specific regular expressions.
 
+## Linter
+A linter is a static code analysis tool for identifying problematic patterns found in JavaScript code. 
+
+* [JSLint](https://github.com/douglascrockford/JSLint): It is the oldest linter. [Douglas Crockford](https://en.wikipedia.org/wiki/Douglas_Crockford) created it in 2002 to enforce the good parts of JavaScript. It is configured and ready to go, and it is not configurable or extensible.
+
+* [JSHint](https://github.com/jshint/jshint): It is a more configurable version of JSLint. It supports many libraries out of the box, such jQuery, QUnit, NodeJS, Mocha, etc. It has basic ES6 support. However, it has no custom rule support.
+
+* [ESLint](https://github.com/eslint/eslint): It is the most populat linter. It is easily extensible, and comes with a large number of custom rules. It has the best ES6 support.
+
+* [TSLint](https://github.com/palantir/tslint): It is a linter to identify and report errors and enforce conventions  for TypeScript. It has been deprecated. The recommended way is using ESLint’s TypeScript support, typescript-eslint. 
+
+
+* [Html-linter](https://github.com/chinchiheather/html-linter): It is a linter to identify and report errors and enforce conventions for HTML files.
+
+* [Stylelint](https://github.com/stylelint/stylelint): It is a linter to identify and report errors and enforce conventions for styles.
+
 ## Gists
 Gists are a collection of code snippets for understanding the JavaScript concepts. It is also a resource to review before a frontend job interview.
 
