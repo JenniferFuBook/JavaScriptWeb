@@ -48,7 +48,7 @@ A linter is a static code analysis tool for identifying problematic patterns fou
 
 * [JSHint](https://github.com/jshint/jshint): It is a more configurable version of JSLint. It supports many libraries out of the box, such jQuery, QUnit, NodeJS, Mocha, etc. It has basic ES6 support. However, it has no custom rule support.
 
-* [ESLint](https://github.com/eslint/eslint): It is the most populat linter. It is easily extensible, and comes with a large number of custom rules. It has the best ES6 support.
+* [ESLint](https://github.com/eslint/eslint): It is the most popular linter. It is easily extensible, and comes with a large number of custom rules. It has the best ES6 support.
 
 * [TSLint](https://github.com/palantir/tslint): It is a linter to identify and report errors and enforce conventions  for TypeScript. It has been deprecated. The recommended way is using ESLint’s TypeScript support, typescript-eslint. 
 
