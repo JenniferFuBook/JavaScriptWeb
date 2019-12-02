@@ -57,6 +57,47 @@ A linter is a static code analysis tool for identifying problematic patterns fou
 
 * [Stylelint](https://github.com/stylelint/stylelint): It is a linter to identify and report errors and enforce conventions for styles.
 
+## Testing
+### Testing Types
+
+* Unit test: Specify and test one point of the contract of single method of a class. This should have a very narrow and well defined scope. Complex dependencies and interactions to the outside world are stubbed or mocked.
+
+* Integration test: Test the correct inter-operation of multiple subsystems. There is whole spectrum there, from testing integration between two classes, to testing integration with the production environment.
+
+* Acceptance test: Test that a feature or use case is correctly implemented. It is similar to an integration test, but with a focus on the use case to provide rather than on the components involved.
+
+* Functional test: Test features on the business requirements of the system.
+
+* Smoke test: Initial tests to decide whether the system is good enough for continuous testing.
+
+* Regression test: A test that was written when a bug was fixed. It ensures that this specific bug will not occur again.
+
+* System test: Test the software as a black box.
+
+* End-to-end test: Test a user behavior with the system in a complete application environment. 
+
+* Performance test: Test to check the behaviors of the system when it is under significant load. 
+
+### Testing Tools
+
+* Test launchers: Launch tests in a browser or Node.js with user config using the CLI or UI. This can also be achieved by opening the browser manually - Karma, Jasmine, Jest, TestCafe, Cypress
+
+* Testing structure providers: Help arranging test files - Mocha, Jasmine, Jest, Cucumber, TestCafe, Cypress
+
+* Assertion functions: Verify whether the results a test returns are as expected - Chai, Jasmine, Jest, Unexpected, TestCafe, Cypress
+
+* Generate and display test progress and results - Mocha, Jasmine, Jest, Karma, TestCafe, Cypress
+
+* Mocks, spies, and stubs - Isolate certain parts of tests and catch their side effects - Sinon, Jasmine, enzyme, Jest, testdouble
+
+* Generate and compare snapshots of component and data structures: Make sure changes from previous runs are intended - Jest, Ava
+
+* Generate code coverage reports: Verify how much of the code is covered by the tests - Istanbul, Jest, Blanket
+
+* Browser controllers: Simulate user actions for Functional Tests - Nightwatch, Nightmare, Phantom, Puppeteer, TestCafe, Cypress
+
+* Visual regression tools: Compare the site to its previous versions visually by using image comparison techniques - Applitools, Percy, Wraith, WebdriverCSS
+
 ## Gists
 Gists are a collection of code snippets for understanding the JavaScript concepts. It is also a resource to review before a frontend job interview.
 
